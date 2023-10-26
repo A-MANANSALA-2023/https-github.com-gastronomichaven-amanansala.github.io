@@ -3,7 +3,7 @@
 <title>Home</title>
 </head>
 
-<body background="background.JPG">
+<body background="background.jpg">
 <font color=B250AD; size=60px;>
 <h1 align =center>GASTRONOMIC HAVEN</h1>
 </font>
@@ -21,7 +21,7 @@
 <table border=0  cellpadding=5 width=100%>
 <td>
 <marquee behavior="alternate" direction="right">
-<img src="picture1.jpg" height=400>
+<img src="./image/picture1.jpg" height=400>
 <img src="picture2.jpg" height=400>
 <img src="picture3.jpg" height=400>
 <img src="picture4.jpg" height=400>
